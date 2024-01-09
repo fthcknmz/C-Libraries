@@ -1,8 +1,9 @@
-# Practice Data Structures
+# C Libraries
 
 ## Content
 
-1. [Array]()
-2. [Stack]()
-3. [Queue]()
-4. [Linked List]()
+1. [Setup and Configuration]()
+2. [Data Structures]()
+3. [Web Access]()
+4. [Text Programming]()
+5. [Computer Graphics]()
