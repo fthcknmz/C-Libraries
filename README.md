@@ -1,7 +1,7 @@
 # C Libraries
 
 ## Content
-1. [Data Structures]()
+1. [Data Types](https://github.com/fthcknmz/C-Libraries/tree/main/Data%20Types)
 2. [Web Access]()
 3. [Text Programming]()
 4. [Computer Graphics]()
